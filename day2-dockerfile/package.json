@@ -1,0 +1,10 @@
+{
+  "name": "winter-arc-docker-api",
+  "version": "1.0.0",
+  "description": "Week 2 Day 2 Dockerfile project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
